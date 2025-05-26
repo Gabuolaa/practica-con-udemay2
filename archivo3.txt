@@ -1,8 +1,1 @@
-<<<<<<< HEAD
 jsg
-linea2
-linea3
-linea4
-=======
-jsg
->>>>>>> parent of 8ff2c90 (archivo3.2)
